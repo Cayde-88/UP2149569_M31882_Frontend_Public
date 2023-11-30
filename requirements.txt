@@ -1,0 +1,9 @@
+aiohttp==3.8.1
+alpaca-trade-api==3.0.0
+pandas==1.5.3
+plotly==5.9.0
+PyMySQL==1.0.3
+SQLAlchemy==1.4.39
+streamlit==1.22.0
+streamlit-option-menu==0.3.6
+yfinance==0.2.32
